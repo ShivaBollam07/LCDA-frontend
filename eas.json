@@ -10,9 +10,18 @@
     "preview": {
       "distribution": "internal"
     },
-    "production": {}
+    "production": {
+      "android": {
+        "buildType": "apk",
+        "versionCode": 1, 
+        "versionName": "1.0.0" 
+      },
+      "distribution": "store" 
+    }
   },
   "submit": {
-    "production": {}
+    "production": {
+   
+    }
   }
 }
