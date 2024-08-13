@@ -1,36 +1,12 @@
 {
   "expo": {
-    "name": "virus",
-    "slug": "LCV",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.satxcho.LCV"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-font"
-    ],
     "extra": {
       "eas": {
-        "projectId": "458256b5-b3ba-48f4-8cfa-6d642da06199"
+        "projectId": "57444ce1-7abe-4adb-9795-e83fd9a35f9c"
       }
+    },
+    "android": {
+      "package": "com.shiva_bollam_07.virus"
     }
   }
 }
